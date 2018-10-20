@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/2/trunk/matlab
+END
+ccvLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/matlab/ccvLabel.m
+END
+Stats.m
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/matlab/Stats.m
+END
+ccvEvalBezSpline.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/matlab/ccvEvalBezSpline.m
+END
+ccvCheckMergeSplines.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/matlab/ccvCheckMergeSplines.m
+END
+ccvReadLaneDetectionResultsFile.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/matlab/ccvReadLaneDetectionResultsFile.m
+END
+ccvGetLaneDetectionStats.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/matlab/ccvGetLaneDetectionStats.m
+END

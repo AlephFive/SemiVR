@@ -1,0 +1,9 @@
+[submodule "libs/CMSIS"]
+	path = libs/CMSIS
+	url = https://github.com/ARM-software/CMSIS.git
+[submodule "libs/mavlink_v2"]
+	path = libs/mavlink_v2
+	url = https://github.com/mavlink/c_library_v2.git
+[submodule "libs/cores"]
+	path = libs/cores
+	url = https://github.com/PaulStoffregen/cores.git
